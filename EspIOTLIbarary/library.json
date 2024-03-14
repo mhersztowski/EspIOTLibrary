@@ -1,0 +1,8 @@
+{
+    "name" : "EspIOTLibrary",
+    "version" : "1.0.0",
+    "include_dirs" : [
+        "../../../include"
+    ]
+
+}
